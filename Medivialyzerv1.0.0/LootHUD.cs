@@ -13,7 +13,7 @@ namespace Medivialyzerv1._0._0
 {
     public partial class LootHUD : Form
     {
-        public const int WM_NCLBUTTONDOWN = 0xA1;
+         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
 
         public static int MinimumValueOfItem;
@@ -29,6 +29,8 @@ namespace Medivialyzerv1._0._0
         public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
         [DllImport("user32.dll")]
         public static extern bool ReleaseCapture();
+        [DllImport("user32.dll")]
+        static extern bool SetLayeredWindowAttributes(IntPtr hwnd, uint crKey, byte bAlpha, uint dwFlags);
 
         //____________end DLLS___________________________
 
@@ -36,18 +38,10 @@ namespace Medivialyzerv1._0._0
         {
             InitializeComponent();
         }
-        public void AddNewItems(List<string> items)
-        {
-            for (int i=0; i<items.Count;i++)
-            {
-                addRow(items[i], GetItemPrice(items[i]), 0,0);
-            }
 
-        }
-
-        private int GetItemPrice(string nazwa)
+        private int GetItemPrice(string ItemName)
         {
-            switch(nazwa)
+            switch (ItemName)
             {
                 case "Axe":
                     return (int)ITEMS.Axe;
@@ -61,9 +55,8 @@ namespace Medivialyzerv1._0._0
         }
         private void LootHUD_Load(object sender, EventArgs e)
         {
-            //obsługa tabelki
-            //this.BackColor = Color.Turquoise;
-            //this.TransparencyKey = BackColor;
+            this.BackColor = Color.Turquoise;
+            this.TransparencyKey = BackColor;
             dataGridView1.ColumnCount = 4;
             dataGridView1.Columns[0].Name = "Name";
             dataGridView1.Columns[1].Name = "Price";
@@ -87,30 +80,31 @@ namespace Medivialyzerv1._0._0
             buttonminus.Text = "-";
             buttonminus.Name = "btnm";
             buttonminus.UseColumnTextForButtonValue = true;
-            //obsługa dodawania loota
-            if(IsLoot1Used == true)
-            {
-                if (loot1.Count > 0)
-                    for (int i = 0; i < loot1.Count; i++)
-                        addRow(loot1[i], GetItemPrice(loot1[i]), 0, 0);
-            }
-            if (IsLoot2Used == true)
-            {
-                if(loot2.Count > 0)
-                    for (int i = 0; i < loot2.Count; i++)
-                        addRow(loot2[i], GetItemPrice(loot2[i]), 0, 0);
-            }
-            if (IsLoot3Used == true)
-            {
-                if (loot3.Count > 0)
-                    for (int i = 0; i < loot3.Count; i++)
-                        addRow(loot3[i], GetItemPrice(loot3[i]), 0, 0);
-            }
+            if (IsLoot1Used == true)
+             {
+                 if (loot1.Count > 0)
+                     for (int i = 0; i < loot1.Count; i++)
+                         AddRow(loot1[i], GetItemPrice(loot1[i]), 0, 0);
+             }
+             if (IsLoot2Used == true)
+             {
+                 if (loot2.Count > 0)
+                     for (int i = 0; i < loot2.Count; i++)
+                         AddRow(loot2[i], GetItemPrice(loot2[i]), 0, 0);
+             }
+             if (IsLoot3Used == true)
+             {
+                 if (loot3.Count > 0)
+                     for (int i = 0; i < loot3.Count; i++)
+                         AddRow(loot3[i], GetItemPrice(loot3[i]), 0, 0);
+             }
+            dataGridView1.RowsDefaultCellStyle.SelectionBackColor = System.Drawing.Color.Transparent;
+            SetLayeredWindowAttributes(this.Handle, 0, 175, 0x2);
         }
-        private void addRow(string value1, int value2, int value3, int value4)
+        private void AddRow(string value1, int value2, int value3, int value4)
         {
             dataGridView1.Rows.Add(value1, value2, value3, value4);
-            resize();
+            ResizeForm();
         }
         private void dataGridView1_MouseDown(object sender, MouseEventArgs e)
         {
@@ -121,8 +115,7 @@ namespace Medivialyzerv1._0._0
             }
         }
 
-
-        private void resize()
+        private void ResizeForm()
         {
             int sumheight = 0;
             int sumwidth = 0;
@@ -132,21 +125,22 @@ namespace Medivialyzerv1._0._0
                 sumwidth += column.Width;
             this.Height = sumheight;
             this.Width = sumwidth;
+
         }
 
         private void dataGridView1_CellMouseDown(object sender, DataGridViewCellMouseEventArgs e)
         {
-            if(e.ColumnIndex == 4)
+            if (e.ColumnIndex == 4)
             {
                 int currvalue = (int)dataGridView1[e.ColumnIndex - 1, e.RowIndex].Value;
                 int itemvalue = (int)dataGridView1[e.ColumnIndex - 3, e.RowIndex].Value;
                 dataGridView1[e.ColumnIndex - 1, e.RowIndex].Value = currvalue + 1;
                 dataGridView1[e.ColumnIndex - 2, e.RowIndex].Value = itemvalue * (currvalue + 1);
             }
-            else if(e.ColumnIndex == 5)
+            else if (e.ColumnIndex == 5)
             {
                 int currvalue = (int)dataGridView1[e.ColumnIndex - 2, e.RowIndex].Value;
-                if(currvalue!=0)
+                if (currvalue != 0)
                 {
                     dataGridView1[e.ColumnIndex - 2, e.RowIndex].Value = currvalue - 1;
                     dataGridView1[e.ColumnIndex - 3, e.RowIndex].Value = (int)dataGridView1[e.ColumnIndex - 4, e.RowIndex].Value * (int)dataGridView1[e.ColumnIndex - 2, e.RowIndex].Value;
