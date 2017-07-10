@@ -87,12 +87,16 @@ namespace Medivialyzerv1._0._0
                 if (alreadyrunning == false)
                 {
                     LootHUDwindow = new LootHUD();
+                    LootHUDwindow.BackColor = Color.Turquoise;
+                    LootHUDwindow.TransparencyKey = Color.Turquoise;
                     SetParent(LootHUDwindow.Handle, klient.cHWND);
                     LootHUDwindow.Show();
-                    if(ExtraSumUpCheck.Checked)
+                    if (ExtraSumUpCheck.Checked)
                     {
                         ExtraSumUpCheck.Enabled = false;
                         SumUpHUDwindow = new SumUpHUD();
+                        SumUpHUDwindow.BackColor = Color.DarkGray;
+                        SumUpHUDwindow.TransparencyKey = Color.DarkGray;
                         SetParent(SumUpHUDwindow.Handle, klient.cHWND);
                         SumUpHUDwindow.Show();
                     }

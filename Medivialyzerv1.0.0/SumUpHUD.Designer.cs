@@ -28,8 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.ProfitLabel = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // label1
@@ -51,6 +53,11 @@
             this.ProfitLabel.Size = new System.Drawing.Size(61, 13);
             this.ProfitLabel.TabIndex = 1;
             this.ProfitLabel.Text = "------------------";
+            // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // SumUpHUD
             // 
@@ -76,5 +83,6 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label ProfitLabel;
+        private System.Windows.Forms.Timer timer1;
     }
 }

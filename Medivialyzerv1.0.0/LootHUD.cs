@@ -23,6 +23,7 @@ namespace Medivialyzerv1._0._0
         public static bool IsLoot1Used = false;
         public static bool IsLoot2Used = false;
         public static bool IsLoot3Used = false;
+        public static int SumOfAllItems = 0;
 
         //____________start DLLS___________________________
         [DllImport("user32.dll")]
@@ -96,8 +97,9 @@ namespace Medivialyzerv1._0._0
                      for (int i = 0; i < loot3.Count; i++)
                          AddRow(loot3[i], GetItemPrice(loot3[i]), 0, 0);
              }
+            dataGridView1.Columns[1].Visible = false;
             dataGridView1.RowsDefaultCellStyle.SelectionBackColor = System.Drawing.Color.Transparent;
-            SetLayeredWindowAttributes(this.Handle, 0, 175, 0x2);
+            SetLayeredWindowAttributes(this.Handle, 0, 170, 0x2);
         }
         private void AddRow(string value1, int value2, int value3, int value4)
         {
@@ -134,6 +136,7 @@ namespace Medivialyzerv1._0._0
                 int itemvalue = (int)dataGridView1[e.ColumnIndex - 3, e.RowIndex].Value;
                 dataGridView1[e.ColumnIndex - 1, e.RowIndex].Value = currvalue + 1;
                 dataGridView1[e.ColumnIndex - 2, e.RowIndex].Value = itemvalue * (currvalue + 1);
+                SumOfAllItems += itemvalue;
             }
             else if (e.ColumnIndex == 5)
             {
@@ -142,6 +145,7 @@ namespace Medivialyzerv1._0._0
                 {
                     dataGridView1[e.ColumnIndex - 2, e.RowIndex].Value = currvalue - 1;
                     dataGridView1[e.ColumnIndex - 3, e.RowIndex].Value = (int)dataGridView1[e.ColumnIndex - 4, e.RowIndex].Value * (int)dataGridView1[e.ColumnIndex - 2, e.RowIndex].Value;
+                    SumOfAllItems -= (int)dataGridView1[e.ColumnIndex - 4, e.RowIndex].Value;
                 }
 
             }

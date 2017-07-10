@@ -20,7 +20,8 @@ namespace Medivialyzerv1._0._0
         public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
         [DllImport("user32.dll")]
         public static extern bool ReleaseCapture();
-
+        [DllImport("user32.dll")]
+        static extern bool SetLayeredWindowAttributes(IntPtr hwnd, uint crKey, byte bAlpha, uint dwFlags);
         //____________end DLLS___________________________
         public SumUpHUD()
         {
@@ -35,11 +36,16 @@ namespace Medivialyzerv1._0._0
                 SendMessage(Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
             }
         }
-
         private void SumUpHUD_Load(object sender, EventArgs e)
         {
             this.Height = 25;
             this.Width = 700;
+            SetLayeredWindowAttributes(this.Handle, 0, 170, 0x2);
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            ProfitLabel.Text = LootHUD.SumOfAllItems.ToString();
         }
     }
 }
