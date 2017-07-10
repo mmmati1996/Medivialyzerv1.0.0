@@ -55,8 +55,6 @@ namespace Medivialyzerv1._0._0
         }
         private void LootHUD_Load(object sender, EventArgs e)
         {
-            this.BackColor = Color.Turquoise;
-            this.TransparencyKey = BackColor;
             dataGridView1.ColumnCount = 4;
             dataGridView1.Columns[0].Name = "Name";
             dataGridView1.Columns[1].Name = "Price";
