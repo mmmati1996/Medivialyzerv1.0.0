@@ -92,7 +92,7 @@ namespace Medivialyzerv1._0._0
              }
             dataGridView1.Columns[1].Visible = false;
             dataGridView1.RowsDefaultCellStyle.SelectionBackColor = System.Drawing.Color.Transparent;
-            SetLayeredWindowAttributes(this.Handle, 0, 170, 0x2);
+            dataGridView1.RowsDefaultCellStyle.SelectionForeColor = Color.Black;
         }
         private void AddRow(string value1, int value2, int value3, int value4)
         {
