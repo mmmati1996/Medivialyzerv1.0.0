@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using System.Resources;
 
 namespace Medivialyzerv1._0._0
 {
@@ -42,17 +43,9 @@ namespace Medivialyzerv1._0._0
 
         private int GetItemPrice(string ItemName)
         {
-            switch (ItemName)
-            {
-                case "Axe":
-                    return (int)ITEMS.Axe;
-                case "Sword":
-                    return (int)ITEMS.Sword;
-                case "Club":
-                    return (int)ITEMS.Club;
-                default:
-                    return 0;
-            }
+            ResourceManager rm = Properties.Resources.ResourceManager;
+
+            return Convert.ToInt32(rm.GetObject(ItemName));
         }
         private void LootHUD_Load(object sender, EventArgs e)
         {
