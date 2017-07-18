@@ -117,4 +117,1732 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Amazon_Helmet" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Ancient_Helmet" xml:space="preserve">
+    <value>42000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Ancient_Tiara" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Assassin_Hood" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Bascinet" xml:space="preserve">
+    <value>24000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Beholder_Helmet" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Brass_Helmet" xml:space="preserve">
+    <value>30</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Chain_Helmet" xml:space="preserve">
+    <value>17</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Crown_Helmet" xml:space="preserve">
+    <value>2500</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Crusader_Helmet" xml:space="preserve">
+    <value>6000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Dark_Helmet" xml:space="preserve">
+    <value>250</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Demonbone_Helmet" xml:space="preserve">
+    <value>9000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Demon_Helmet" xml:space="preserve">
+    <value>45000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Devil_Helmet" xml:space="preserve">
+    <value>1000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Dwarven_Helmet" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Golden_Helmet" xml:space="preserve">
+    <value>420</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Helmet_of_the_Ancients" xml:space="preserve">
+    <value>40000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Helmet_of_the_Giants" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Horned_Helmet" xml:space="preserve">
+    <value>155</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Iron_Helmet" xml:space="preserve">
+    <value>150</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Leather_Helmet" xml:space="preserve">
+    <value>4</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Legion_Helmet" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Lightbringer_Helmet" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Mystic_Turban" xml:space="preserve">
+    <value>1000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Royal_Helmet" xml:space="preserve">
+    <value>30000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Soldier_Helmet" xml:space="preserve">
+    <value>16</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Steel_Helmet" xml:space="preserve">
+    <value>293</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Strange_Helmet" xml:space="preserve">
+    <value>500</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Studded_Helmet" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Templar_Helmet" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Viking_Helmet" xml:space="preserve">
+    <value>66</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Warrior_Helmet" xml:space="preserve">
+    <value>5000</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Winged_Helmet" xml:space="preserve">
+    <value>0</value>
+    <comment>helmet</comment>
+  </data>
+  <data name="Amazon_Armor" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Amazon_Shield" xml:space="preserve">
+    <value>0</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Ancient_Armor" xml:space="preserve">
+    <value>75000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Ancient_Shield" xml:space="preserve">
+    <value>900</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Assassin_Tunic" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Ball_Gown" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Battle_Shield" xml:space="preserve">
+    <value>95</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Beholder_Shield" xml:space="preserve">
+    <value>1200</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Black_Shield" xml:space="preserve">
+    <value>800</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Blessed_Shield" xml:space="preserve">
+    <value>650</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Blue_Robe" xml:space="preserve">
+    <value>10000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Bone_Shield" xml:space="preserve">
+    <value>100</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Brass_Armor" xml:space="preserve">
+    <value>150</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Brass_Shield" xml:space="preserve">
+    <value>25</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Cape" xml:space="preserve">
+    <value>9</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Castle_Shield" xml:space="preserve">
+    <value>5000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Chain_Armor" xml:space="preserve">
+    <value>70</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Coat" xml:space="preserve">
+    <value>1</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Copper_Shield" xml:space="preserve">
+    <value>50</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Crown_Armor" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Crown_Shield" xml:space="preserve">
+    <value>8000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Daraman_Shield" xml:space="preserve">
+    <value>0</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Dark_Armor" xml:space="preserve">
+    <value>400</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Dark_Shield" xml:space="preserve">
+    <value>0</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Demonbone_Armor" xml:space="preserve">
+    <value>40000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Demon_Armor" xml:space="preserve">
+    <value>150000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Demon_Shield" xml:space="preserve">
+    <value>30000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Doublet" xml:space="preserve">
+    <value>3</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Dragon_Scale_Mail" xml:space="preserve">
+    <value>30000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Dragon_Shield" xml:space="preserve">
+    <value>4000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Dwarven_Armor" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Dwarven_Shield" xml:space="preserve">
+    <value>100</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Eagle_Shield" xml:space="preserve">
+    <value>0</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Ferumbras_Robe" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Frozen_Shield" xml:space="preserve">
+    <value>29000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Golden_Armor" xml:space="preserve">
+    <value>20000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Great_Shield" xml:space="preserve">
+    <value>480</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Green_Tunic" xml:space="preserve">
+    <value>25</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Griffin_Shield" xml:space="preserve">
+    <value>59</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Guardian_Shield" xml:space="preserve">
+    <value>2000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Hellforged_Armor" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Hellforged_Shield" xml:space="preserve">
+    <value>36000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Housewifes_Dress" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Jacket" xml:space="preserve">
+    <value>1</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Knight_Armor" xml:space="preserve">
+    <value>5000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Leather_Armor" xml:space="preserve">
+    <value>12</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Light_Armor" xml:space="preserve">
+    <value>13000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Magic_Cloak" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Magic_Plate_Armor" xml:space="preserve">
+    <value>200000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Mastermind_Shield" xml:space="preserve">
+    <value>550</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Medusa_Shield" xml:space="preserve">
+    <value>8000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Mercenarys_Shield" xml:space="preserve">
+    <value>0</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Nether_Shield" xml:space="preserve">
+    <value>6600</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Noble_Armor" xml:space="preserve">
+    <value>900</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Ornamented_Shield" xml:space="preserve">
+    <value>45</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Phoenix_Shield" xml:space="preserve">
+    <value>16000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Plate_Armor" xml:space="preserve">
+    <value>400</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Plate_Shield" xml:space="preserve">
+    <value>45</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Red_Robe" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Red_Scale_Armor" xml:space="preserve">
+    <value>190000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Rose_Shield" xml:space="preserve">
+    <value>49</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Royal_Dress" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Royal_Plate_Armor" xml:space="preserve">
+    <value>35000</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Scale_Armor" xml:space="preserve">
+    <value>70</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Scarab_Shield" xml:space="preserve">
+    <value>1500</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Shield_of_Honour" xml:space="preserve">
+    <value>520</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Shield_of_the_Heroes" xml:space="preserve">
+    <value>0</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Simple_Dress" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Spider_Chain_Mail" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Steel_Shield" xml:space="preserve">
+    <value>80</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Studded_Armor" xml:space="preserve">
+    <value>25</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Studded_Shield" xml:space="preserve">
+    <value>16</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Sulphiras_Scale_Mail" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Sunfire_Cape" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Tempest_Shield" xml:space="preserve">
+    <value>0</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Thaian_Soldier_Armor" xml:space="preserve">
+    <value>5500</value>
+    <comment>armor</comment>
+  </data>
+  <data name="Thaian_Soldier_Shield" xml:space="preserve">
+    <value>3000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Tower_Shield" xml:space="preserve">
+    <value>8000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Unholy_Shield" xml:space="preserve">
+    <value>520</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Vampire_Shield" xml:space="preserve">
+    <value>15000</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Viking_Shield" xml:space="preserve">
+    <value>85</value>
+    <comment>shield</comment>
+  </data>
+  <data name="White_Dress" xml:space="preserve">
+    <value>0</value>
+    <comment>armor</comment>
+  </data>
+  <data name="White_Rose_Shield" xml:space="preserve">
+    <value>0</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Wooden_Shield" xml:space="preserve">
+    <value>5</value>
+    <comment>shield</comment>
+  </data>
+  <data name="Ancient_Boots" xml:space="preserve">
+    <value>5000</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Ancient_Legs" xml:space="preserve">
+    <value>45000</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Ancient_Sword" xml:space="preserve">
+    <value>40000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Arming_Sword" xml:space="preserve">
+    <value>20000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Assassin_Blade" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Assassin_Dagger" xml:space="preserve">
+    <value>1000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Assassin_Legs" xml:space="preserve">
+    <value>0</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Axe" xml:space="preserve">
+    <value>7</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Barbarian_Axe" xml:space="preserve">
+    <value>185</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Battle_Axe" xml:space="preserve">
+    <value>80</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Bone_Sword" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Boots_of_Haste" xml:space="preserve">
+    <value>30000</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Boots_of_Waterwalking" xml:space="preserve">
+    <value>0</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Brass_Legs" xml:space="preserve">
+    <value>49</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Bright_Sword" xml:space="preserve">
+    <value>8000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Broad_Sword" xml:space="preserve">
+    <value>500</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Bunny_Slippers" xml:space="preserve">
+    <value>0</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Carlin_Sword" xml:space="preserve">
+    <value>118</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Chain_Legs" xml:space="preserve">
+    <value>25</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Combat_Knife" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Crown_Boots" xml:space="preserve">
+    <value>14000</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Crown_Legs" xml:space="preserve">
+    <value>12000</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Dagger" xml:space="preserve">
+    <value>2</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Daraman_Blade" xml:space="preserve">
+    <value>35000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Daraman_Waraxe" xml:space="preserve">
+    <value>1000</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Demonbone_Boots" xml:space="preserve">
+    <value>14000</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Demonbone_Legs" xml:space="preserve">
+    <value>60000</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Demonic_Axe" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Demon_Legs" xml:space="preserve">
+    <value>0</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Djinn_Blade" xml:space="preserve">
+    <value>15000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Double_Axe" xml:space="preserve">
+    <value>260</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Dragon_Lance" xml:space="preserve">
+    <value>9000</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Dragon_Scale_Legs" xml:space="preserve">
+    <value>0</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Dragon_Slayer" xml:space="preserve">
+    <value>40000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Dwarven_Axe" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Dwarven_Legs" xml:space="preserve">
+    <value>0</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Executioners_Sword" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Fire_Axe" xml:space="preserve">
+    <value>8000</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Fire_Sword" xml:space="preserve">
+    <value>4000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Giant_Sword" xml:space="preserve">
+    <value>17000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Golden_Boots" xml:space="preserve">
+    <value>0</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Golden_Legs" xml:space="preserve">
+    <value>50000</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Golden_Sickle" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Great_Axe" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Guardian_Halberd" xml:space="preserve">
+    <value>8000</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Halberd" xml:space="preserve">
+    <value>400</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Hand_Axe" xml:space="preserve">
+    <value>4</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Hatchet" xml:space="preserve">
+    <value>25</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Heavy_Halberd" xml:space="preserve">
+    <value>35000</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Heavy_Machete" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Hellforged_Legs" xml:space="preserve">
+    <value>0</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Hydra_Scale_Legs" xml:space="preserve">
+    <value>0</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Ice_Rapier" xml:space="preserve">
+    <value>1000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Katana" xml:space="preserve">
+    <value>8</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Knife" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Knight_Axe" xml:space="preserve">
+    <value>2000</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Knight_Legs" xml:space="preserve">
+    <value>5000</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Leather_Boots" xml:space="preserve">
+    <value>0</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Leather_Legs" xml:space="preserve">
+    <value>1</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Light_Sword" xml:space="preserve">
+    <value>4500</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Longsword" xml:space="preserve">
+    <value>51</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Machete" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Magic_Longsword" xml:space="preserve">
+    <value>460</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Magic_Sword" xml:space="preserve">
+    <value>200000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Mercenary_Sword" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Naginata" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Obsidian_Lance" xml:space="preserve">
+    <value>500</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Orcish_Axe" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Patched_Boots" xml:space="preserve">
+    <value>0</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Pharaoh_Sword" xml:space="preserve">
+    <value>23000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Plate_Legs" xml:space="preserve">
+    <value>115</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Poison_Dagger" xml:space="preserve">
+    <value>50</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Quicksand_Boots" xml:space="preserve">
+    <value>0</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Rapier" xml:space="preserve">
+    <value>5</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Ravagers_Axe" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Sabre" xml:space="preserve">
+    <value>12</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Sandals" xml:space="preserve">
+    <value>0</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Scimitar" xml:space="preserve">
+    <value>150</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Scythe" xml:space="preserve">
+    <value>12</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Serpent_Sword" xml:space="preserve">
+    <value>900</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Short_Sword" xml:space="preserve">
+    <value>10</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Sickle" xml:space="preserve">
+    <value>3</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Silver_Dagger" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Soul_Dagger" xml:space="preserve">
+    <value>200</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Spider_Chain_Legs" xml:space="preserve">
+    <value>0</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Spike_Sword" xml:space="preserve">
+    <value>1000</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Steel_Boots" xml:space="preserve">
+    <value>30000</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Stonecutter_Axe" xml:space="preserve">
+    <value>150000</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Studded_Legs" xml:space="preserve">
+    <value>0</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Sword" xml:space="preserve">
+    <value>25</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Thaian_Soldier_Legs" xml:space="preserve">
+    <value>20000</value>
+    <comment>legs</comment>
+  </data>
+  <data name="Torn_Quicksand_Boots" xml:space="preserve">
+    <value>10000</value>
+    <comment>boots</comment>
+  </data>
+  <data name="Twin_Axe" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Two_Handed_Sword" xml:space="preserve">
+    <value>450</value>
+    <comment>sword</comment>
+  </data>
+  <data name="Vanquisher" xml:space="preserve">
+    <value>100000</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Warlord_Sword" xml:space="preserve">
+    <value>0</value>
+    <comment>sword</comment>
+  </data>
+  <data name="War_Axe" xml:space="preserve">
+    <value>0</value>
+    <comment>axe</comment>
+  </data>
+  <data name="Amulet_of_Loss" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Amulet_of_the_Elements" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Ancient_Amulet" xml:space="preserve">
+    <value>500</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Ancient_Crossbow" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Ankh" xml:space="preserve">
+    <value>100</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Arrow" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Battle_Hammer" xml:space="preserve">
+    <value>120</value>
+    <comment>club</comment>
+  </data>
+  <data name="Blank_Rune" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Blazing_Crossbow" xml:space="preserve">
+    <value>70000</value>
+    <comment>crossbow</comment>
+  </data>
+  <data name="Blood_Orb" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Blue_Premium_Rose" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Blue_Spellwand" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Bolt" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Bone_Basher" xml:space="preserve">
+    <value>5500</value>
+    <comment>club</comment>
+  </data>
+  <data name="Bone_Club" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Bow" xml:space="preserve">
+    <value>130</value>
+    <comment>bow</comment>
+  </data>
+  <data name="Bronze_Amulet" xml:space="preserve">
+    <value>50</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Bronze_Necklace" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Burst_Arrow" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Clerical_Mace" xml:space="preserve">
+    <value>170</value>
+    <comment>club</comment>
+  </data>
+  <data name="Club" xml:space="preserve">
+    <value>1</value>
+    <comment>club</comment>
+  </data>
+  <data name="Conjure_Wand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Crossbow" xml:space="preserve">
+    <value>160</value>
+    <comment>crossbow</comment>
+  </data>
+  <data name="Crowbar" xml:space="preserve">
+    <value>50</value>
+    <comment>club</comment>
+  </data>
+  <data name="Crystal_Ball" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Crystal_Mace" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Crystal_Necklace" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Crystal_Wand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Daraman_Arrow" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Daraman_Bow" xml:space="preserve">
+    <value>32000</value>
+    <comment>bow</comment>
+  </data>
+  <data name="Daraman_Mace" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Daraman_Wand" xml:space="preserve">
+    <value>6000</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Demonbone_Amulet" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Dragon_Hammer" xml:space="preserve">
+    <value>2000</value>
+    <comment>club</comment>
+  </data>
+  <data name="Dragon_Necklace" xml:space="preserve">
+    <value>100</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Elven_Amulet" xml:space="preserve">
+    <value>100</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Elven_Bow" xml:space="preserve">
+    <value>500</value>
+    <comment>bow</comment>
+  </data>
+  <data name="Elven_Crossbow" xml:space="preserve">
+    <value>7500</value>
+    <comment>crossbow</comment>
+  </data>
+  <data name="Enchanted_Staff" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Enhanced_Crossbow" xml:space="preserve">
+    <value>24000</value>
+    <comment>crossbow</comment>
+  </data>
+  <data name="Envenomed_Crossbow" xml:space="preserve">
+    <value>0</value>
+    <comment>crossbow</comment>
+  </data>
+  <data name="Flaming_Bow" xml:space="preserve">
+    <value>18000</value>
+    <comment>bow</comment>
+  </data>
+  <data name="Frozen_Starlight" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Garlic_Necklace" xml:space="preserve">
+    <value>50</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Golden_Amulet" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Golden_Mace" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Golden_Wand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Green_Spellwand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Hammer_of_Wrath" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Headhunter_Spear" xml:space="preserve">
+    <value>0</value>
+    <comment>distanceweapon</comment>
+  </data>
+  <data name="Heavy_Mace" xml:space="preserve">
+    <value>35000</value>
+    <comment>club</comment>
+  </data>
+  <data name="Holy_Falcon" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Holy_Scarab" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="House_Rose" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Hunting_Arrow" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Hunting_Bolt" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Hunting_Bow" xml:space="preserve">
+    <value>1000</value>
+    <comment>bow</comment>
+  </data>
+  <data name="Ignited_Bow" xml:space="preserve">
+    <value>5000</value>
+    <comment>bow</comment>
+  </data>
+  <data name="Iron_Hammer" xml:space="preserve">
+    <value>8</value>
+    <comment>club</comment>
+  </data>
+  <data name="Life_Crystal" xml:space="preserve">
+    <value>85</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Mace" xml:space="preserve">
+    <value>30</value>
+    <comment>club</comment>
+  </data>
+  <data name="Magicians_Staff" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Magic_Light_Wand" xml:space="preserve">
+    <value>35</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Magic_Wand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Mind_Stone" xml:space="preserve">
+    <value>170</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Morning_Star" xml:space="preserve">
+    <value>100</value>
+    <comment>club</comment>
+  </data>
+  <data name="Mysterious_Fetish" xml:space="preserve">
+    <value>50</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Napalmsoak_Arrow" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Orb" xml:space="preserve">
+    <value>750</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Paw_Amulet" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Platinum_Amulet" xml:space="preserve">
+    <value>1500</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Poisoned_Bow" xml:space="preserve">
+    <value>16000</value>
+    <comment>bow</comment>
+  </data>
+  <data name="Poison_Arrow" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Power_Bolt" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Premium_House_Rose" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Protection_Amulet" xml:space="preserve">
+    <value>100</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Red_Premium_Rose" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Red_Spellwand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Ritual_Wand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Ruby_Necklace" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Sapphire_Amulet" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Scarab_Amulet" xml:space="preserve">
+    <value>500</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Scarf" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Silver_Amulet" xml:space="preserve">
+    <value>50</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Silver_Mace" xml:space="preserve">
+    <value>16500</value>
+    <comment>club</comment>
+  </data>
+  <data name="Silver_Necklace" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Skull_Staff" xml:space="preserve">
+    <value>6000</value>
+    <comment>club</comment>
+  </data>
+  <data name="Small_Stone" xml:space="preserve">
+    <value>0</value>
+    <comment>distanceweapon</comment>
+  </data>
+  <data name="Snowball" xml:space="preserve">
+    <value>0</value>
+    <comment>distanceweapon</comment>
+  </data>
+  <data name="Spear" xml:space="preserve">
+    <value>3</value>
+    <comment>distanceweapon</comment>
+  </data>
+  <data name="Spellbook" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Staff" xml:space="preserve">
+    <value>1</value>
+    <comment>club</comment>
+  </data>
+  <data name="Star_Amulet" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Stone_Skin_Amulet" xml:space="preserve">
+    <value>500</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Strange_Symbol" xml:space="preserve">
+    <value>200</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Strange_Talisman" xml:space="preserve">
+    <value>30</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Studded_Club" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Swinging_Demolisher" xml:space="preserve">
+    <value>16000</value>
+    <comment>club</comment>
+  </data>
+  <data name="Talon" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Throwing_Knife" xml:space="preserve">
+    <value>0</value>
+    <comment>distanceweapon</comment>
+  </data>
+  <data name="Throwing_Star" xml:space="preserve">
+    <value>0</value>
+    <comment>distanceweapon</comment>
+  </data>
+  <data name="Thunder_Hammer" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Venomshot_Arrow" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Venomshot_Bolt" xml:space="preserve">
+    <value>0</value>
+    <comment>ammunition</comment>
+  </data>
+  <data name="Wand_of_Light" xml:space="preserve">
+    <value>4000</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Wand_of_Might" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="War_Hammer" xml:space="preserve">
+    <value>1200</value>
+    <comment>club</comment>
+  </data>
+  <data name="Webseeker_Whip" xml:space="preserve">
+    <value>0</value>
+    <comment>club</comment>
+  </data>
+  <data name="Wolf_Tooth_Chain" xml:space="preserve">
+    <value>0</value>
+    <comment>amulet</comment>
+  </data>
+  <data name="Wooden_Maul" xml:space="preserve">
+    <value>2000</value>
+    <comment>club</comment>
+  </data>
+  <data name="Wooden_Wand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Yellow_Premium_Rose" xml:space="preserve">
+    <value>0</value>
+    <comment>magicalitem</comment>
+  </data>
+  <data name="Yellow_Spellwand" xml:space="preserve">
+    <value>0</value>
+    <comment>wand</comment>
+  </data>
+  <data name="Aquamarine" xml:space="preserve">
+    <value>350</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Axe_Ring" xml:space="preserve">
+    <value>100</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Banana" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Black_Pearl" xml:space="preserve">
+    <value>280</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Blueberry" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Blue_Gem" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Bread" xml:space="preserve">
+    <value>2</value>
+    <comment>food</comment>
+  </data>
+  <data name="Brown_Bread" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Brown_Mushroom" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Bunch_of_Wheat" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Candy_Cane" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Carrot" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Cheese" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Cherry" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Christmas_Pearl_Green" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Christmas_Pearl_Yellow" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Club_Ring" xml:space="preserve">
+    <value>100</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Coconut" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Cookie" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Corncob" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Crown" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Crystal_Coin" xml:space="preserve">
+    <value>10000</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Crystal_Ring" xml:space="preserve">
+    <value>0</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Dark_Mushroom" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Dragon_Ham" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Dwarven_Ring" xml:space="preserve">
+    <value>100</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Egg" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Ember_Coin" xml:space="preserve">
+    <value>500</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Emerald_Bangle" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Energy_Ring" xml:space="preserve">
+    <value>100</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Fire_Mushroom" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Fish" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Flour" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Frozen_Ham" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Golden_Ring" xml:space="preserve">
+    <value>8000</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Gold_Coin" xml:space="preserve">
+    <value>1</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Gold_Nugget" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Grapes" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Green_Gem" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Green_Mushroom" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Ham" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Hydra_Ham" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Illumination_Ring" xml:space="preserve">
+    <value>0</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Life_Ring" xml:space="preserve">
+    <value>50</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Lump_of_Dough" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Meat" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Melon" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Might_Ring" xml:space="preserve">
+    <value>250</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Northern_Pike" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Orange" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Pear" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Platinum_Coin" xml:space="preserve">
+    <value>100</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Power_Ring" xml:space="preserve">
+    <value>50</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Pumpkin" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Red_Apple" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Red_Gem" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Red_Mushroom" xml:space="preserve">
+    <value>12</value>
+    <comment>food</comment>
+  </data>
+  <data name="Ring_of_Healing" xml:space="preserve">
+    <value>100</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Ring_of_the_Sky" xml:space="preserve">
+    <value>20000</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Roll" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Salmon" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Scarab_Coin" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Shrimp" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Silver_Brooch" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Small_Amethyst" xml:space="preserve">
+    <value>200</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Small_Diamond" xml:space="preserve">
+    <value>300</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Small_Emerald" xml:space="preserve">
+    <value>250</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Small_Ruby" xml:space="preserve">
+    <value>250</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Small_Sapphire" xml:space="preserve">
+    <value>250</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Some_Mushroom" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Soul_Emerald" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Stealth_Ring" xml:space="preserve">
+    <value>200</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Strawberry" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Sword_Ring" xml:space="preserve">
+    <value>100</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Time_Ring" xml:space="preserve">
+    <value>100</value>
+    <comment>ring</comment>
+  </data>
+  <data name="Tomato" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="Violet_Gem" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Wedding_Ring" xml:space="preserve">
+    <value>0</value>
+    <comment>ring</comment>
+  </data>
+  <data name="White_Mushroom" xml:space="preserve">
+    <value>0</value>
+    <comment>food</comment>
+  </data>
+  <data name="White_Pearl" xml:space="preserve">
+    <value>160</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Wood_Mushroom" xml:space="preserve">
+    <value>15</value>
+    <comment>food</comment>
+  </data>
+  <data name="Yellow_Gem" xml:space="preserve">
+    <value>0</value>
+    <comment>valueable</comment>
+  </data>
+  <data name="Backpack" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Basket" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Bowl" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Broom" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Cleaver" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Cup" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Doll" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Fishing_Rod" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Fork" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Hammer" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Inkwell" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Jug" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Kitchen_Knife" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Mirror" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Pick" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Piggy_Bank" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Pipe" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Rope" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Shovel" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Torch" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Trap" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Watch" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
+  <data name="Waterskin" xml:space="preserve">
+    <value>0</value>
+    <comment>tool</comment>
+  </data>
 </root>
