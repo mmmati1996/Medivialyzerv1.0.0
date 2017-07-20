@@ -1,4 +1,4 @@
-# Medivialyzer
+# **Medivialyzer**
 # v1.0.0
 
 Medivialyzer is an open source project, for game named Medivia.
@@ -10,7 +10,8 @@ Requirements:
 
 There are two ways to download it:
 - Compile it !
-- Download file from here:  [Click](https://github.com/mmmati1996/Medivialyzerv1.0.0/releases)
+- Download file from here:  
+>[MediviaLyzer Prelease](https://github.com/mmmati1996/Medivialyzerv1.0.0/releases)
 
 There're still some things to do or fix.
 
