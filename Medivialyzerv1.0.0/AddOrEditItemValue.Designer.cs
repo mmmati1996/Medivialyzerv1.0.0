@@ -1,4 +1,4 @@
-﻿namespace TestLootHUDa___wyglad
+﻿namespace Medivialyzerv1._0._0
 {
     partial class AddOrEditItemValue
     {
