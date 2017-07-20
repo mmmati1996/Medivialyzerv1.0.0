@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Configuration;
 
-namespace TestLootHUDa___wyglad
+namespace Medivialyzerv1._0._0
 {
     public partial class ListOfItems : Form
     {
