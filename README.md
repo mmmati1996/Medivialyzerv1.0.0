@@ -1,4 +1,4 @@
-######## Medivialyzer
+# Medivialyzer
 # v1.0.0
 
 Medivialyzer is an open source project, for game named Medivia.
