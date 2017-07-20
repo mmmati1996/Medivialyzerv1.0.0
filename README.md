@@ -10,10 +10,7 @@ Requirements:
 
 There are two ways to download it:
 - Compile it !
-- Download file from SourceForge:  Link will be added soon
-
-Please report any bugs at this thread at forum: linklinklink
-
+- Download file from here:  [Click](https://github.com/mmmati1996/Medivialyzerv1.0.0/releases)
 There're still some things to do or fix.
 
 Happy hunting !
