@@ -14,7 +14,7 @@ using System.Reflection;
 using System.Configuration;
 using System.Text.RegularExpressions;
 
-namespace TestLootHUDa___wyglad
+namespace Medivialyzerv1._0._0
 {
     public partial class AddOrEditItemValue : Form
     {
