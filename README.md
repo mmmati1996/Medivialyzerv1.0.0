@@ -11,4 +11,5 @@ Requirements:
 There are two ways to download it:
 - Compile it ! <harder version>
 - Download file from SourceForge:
+								Link will be added soon
 
